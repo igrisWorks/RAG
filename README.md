@@ -30,5 +30,3 @@ pip install -r requirements.txt
 - Chromadb persistent store is at `data/vector_store` by default.
 - The project uses `SentenceTransformers` for embeddings and a simple retriever for RAG.
 
----
-If you'd like, I can further expand the README with detailed installation steps, examples, or add a `requirements.txt` file.
