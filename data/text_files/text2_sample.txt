@@ -1,0 +1,6 @@
+Known challenges of LLMs include:
+
+Presenting false information when it does not have the answer.
+Presenting out-of-date or generic information when the user expects a specific, current response.
+Creating a response from non-authoritative sources.
+Creating inaccurate responses due to terminology confusion, wherein different training sources use the same terminology to talk about different things.
